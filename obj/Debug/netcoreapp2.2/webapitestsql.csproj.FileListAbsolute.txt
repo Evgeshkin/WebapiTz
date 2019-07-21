@@ -1,0 +1,14 @@
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.csprojAssemblyReference.cache
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.csproj.CoreCompileInputs.cache
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.RazorAssemblyInfo.cache
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.RazorAssemblyInfo.cs
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.AssemblyInfoInputs.cache
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.AssemblyInfo.cs
+F:\TestProjectWWW\webapitestsql\webapitestsql\bin\Debug\netcoreapp2.2\webapitestsql.deps.json
+F:\TestProjectWWW\webapitestsql\webapitestsql\bin\Debug\netcoreapp2.2\webapitestsql.runtimeconfig.json
+F:\TestProjectWWW\webapitestsql\webapitestsql\bin\Debug\netcoreapp2.2\webapitestsql.runtimeconfig.dev.json
+F:\TestProjectWWW\webapitestsql\webapitestsql\bin\Debug\netcoreapp2.2\webapitestsql.dll
+F:\TestProjectWWW\webapitestsql\webapitestsql\bin\Debug\netcoreapp2.2\webapitestsql.pdb
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.RazorTargetAssemblyInfo.cache
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.dll
+F:\TestProjectWWW\webapitestsql\webapitestsql\obj\Debug\netcoreapp2.2\webapitestsql.pdb
