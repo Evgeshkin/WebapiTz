@@ -44,7 +44,6 @@ namespace webapitestsql.Models
             Account account = GetAccountByID(accountHistory.AccountID);
             if (account == null) return 0;
             account.Ballance = (accountHistory.Amount > 0) ? account.Ballance - accountHistory.Amount : account.Ballance + accountHistory.Amount;
-            //account.Ballance = account.Ballance + accountHistory.Amount;
             if (account.Ballance < 0)
                 return 0;
             dbcontext.Account.Add(account);
