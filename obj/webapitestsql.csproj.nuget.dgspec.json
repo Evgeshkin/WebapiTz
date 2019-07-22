@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TestProjectWWW\\webapitestsql\\webapitestsql\\webapitestsql.csproj": {}
+    "F:\\GitRepository\\WebapiTz\\webapitestsql\\webapitestsql.csproj": {}
   },
   "projects": {
-    "F:\\TestProjectWWW\\webapitestsql\\webapitestsql\\webapitestsql.csproj": {
+    "F:\\GitRepository\\WebapiTz\\webapitestsql\\webapitestsql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TestProjectWWW\\webapitestsql\\webapitestsql\\webapitestsql.csproj",
+        "projectUniqueName": "F:\\GitRepository\\WebapiTz\\webapitestsql\\webapitestsql.csproj",
         "projectName": "webapitestsql",
-        "projectPath": "F:\\TestProjectWWW\\webapitestsql\\webapitestsql\\webapitestsql.csproj",
+        "projectPath": "F:\\GitRepository\\WebapiTz\\webapitestsql\\webapitestsql.csproj",
         "packagesPath": "C:\\Users\\Torov-Lab\\.nuget\\packages\\",
-        "outputPath": "F:\\TestProjectWWW\\webapitestsql\\webapitestsql\\obj\\",
+        "outputPath": "F:\\GitRepository\\WebapiTz\\webapitestsql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
